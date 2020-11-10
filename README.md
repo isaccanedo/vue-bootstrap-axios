@@ -1,4 +1,4 @@
-# vue, bootstrap-vue, axios
+# VUE, Bootstrap-vue, Axios
 
 ## Project setup
 ```

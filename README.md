@@ -27,3 +27,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+https://github.com/isaccanedo/vue-bootstrap-axios/blob/master/screenshot.jpg
